@@ -3,7 +3,7 @@
 I'm a software developer, specializing in application development on AWS.
 
 - 🌐 Visit my portfolio website for more information and to get in touch.
-- 👋 Check out my personal blog for articles and insights.
+- 👋 Check out my personal <a href="https://laurammoraes.github.io/blog.github.io/en/"> blog </a> for articles and insights.
 
 <p align="left">
  
