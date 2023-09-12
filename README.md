@@ -2,7 +2,7 @@
 
 I'm a software developer, specializing in application development on AWS.
 
-- 👋 Check out my personal <a href="[https://laurammoraes.github.io/blog.github.io/en/](https://laurammoraes.github.io/blog.github.io/en/blog/)"> blog </a> for articles and insights.
+- 👋 Check out my personal <a href="https://laurammoraes.github.io/blog.github.io/en/"> blog </a> for articles and insights.
 
 <p align="left">
  
