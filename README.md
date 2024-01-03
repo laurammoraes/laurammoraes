@@ -1,8 +1,6 @@
 ### Hi 👋, I am Laura
 
-I'm a software developer specializing in fullstack development.
 
-Studies focused on node js, react and python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
