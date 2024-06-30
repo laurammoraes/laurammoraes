@@ -1,5 +1,3 @@
-### Hi 👋, I am Laura
-
 
 
 <div style="display: inline_block"><br>
